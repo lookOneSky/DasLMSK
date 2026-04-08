@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{130CC9F7-4E0B-BF50-1064-13919502B4C7}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "DasLMSK",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
